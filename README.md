@@ -1,2 +1,3 @@
 # liri-node-app
 LIRI: It's like SIRI, but for Terminal! Which probably gives it way less market value...
+Video demo: https://www.youtube.com/watch?v=zc_BRUVtMeQ
