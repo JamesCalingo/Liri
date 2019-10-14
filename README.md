@@ -13,15 +13,17 @@ Using Node.js and axios, Liri lets you run several commands via your terminal wi
 
 To perform any of these actions, first download the app with
 
-### $ git clone 
-
+```
+$ git clone 
+```
 and then open the folder for this app in terminal and type in your command line
-
+```
 ### $ node liri.js
-
+```
 followed by the command you want.
 
 
-*NOTE: This app requires you having Node on your computer to work
+*NOTE: This app requires you having Node on your computer to work*
+
 # Technology Used
 Node.js, axios, Spotify API
