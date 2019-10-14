@@ -18,7 +18,7 @@ $ git clone
 ```
 and then open the folder for this app in terminal and type in your command line
 ```
-### $ node liri.js
+$ node liri.js
 ```
 followed by the command you want.
 
@@ -26,4 +26,7 @@ followed by the command you want.
 *NOTE: This app requires you having Node on your computer to work*
 
 # Technology Used
-Node.js, axios, Spotify API
+
+-Node.js
+-Axios
+-Spotify API
