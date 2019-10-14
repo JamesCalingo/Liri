@@ -27,6 +27,6 @@ followed by the command you want.
 
 # Technology Used
 
--Node.js
--Axios
--Spotify API
+- Node.js
+- Axios
+- Spotify API
